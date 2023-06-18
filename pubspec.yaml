@@ -45,6 +45,7 @@ dependencies:
   dartz: any
   injectable: any
   internet_connection_checker: ^1.0.0+1
+  http: ^0.13.5
   
 
 dev_dependencies:
