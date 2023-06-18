@@ -35,11 +35,23 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.2
+  cupertino_icons: any
+  json_serializable: any
+  json_annotation: any
+  
+  bloc: any
+  flutter_bloc: any
+  equatable: any
+  dartz: any
+  injectable: any
+  internet_connection_checker: ^1.0.0+1
+  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  build_runner: any
+  injectable_generator: any
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
